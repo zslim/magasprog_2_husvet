@@ -1,0 +1,7 @@
+Perselus Piton,1945.02.19,Pacsuli,0.1
+Argus Frics,1927.06.12,Pitralon,0.01
+Albus Dumbledore,1900.11.30,Chanel,0.15
+Lucius Malfoy,1944.10.08,Britney,0.2
+George Weasley,1963.07.20,Ibolya,0.25
+Fred Weasley,1963.07.20,Chanel,0.27
+Harry Potter,1967.08.13,Pacsuli,0.18
