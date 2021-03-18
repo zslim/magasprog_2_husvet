@@ -39,7 +39,7 @@ namespace Husvet
             {
                 DateTime birthDate = DateTime.Parse(row[1]);
                 Kolni kolni = (Kolni) Enum.Parse(typeof(Kolni), row[2]);
-                double alcoholConsumed = double.Parse(row[4]);
+                double alcoholConsumed = double.Parse(row[3]);
                 
                 Locsolkodo person = new Locsolkodo(
                     name: row[0], 

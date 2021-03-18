@@ -47,5 +47,11 @@ namespace Husvet
                 return AlcoholConsumed >= threshold;
             }
         }
+
+        public override string ToString()
+        {
+            return string.Format("Név: {0}, Születési dátum: {1}, Kölni: {2}, Elfogyasztott alkohol (v/v%): {3}",
+                Name, BirthDate, KolniViz, AlcoholConsumed);
+        }
     }
 }
