@@ -8,3 +8,6 @@ Harry Potter,1967.08.13,Pacsuli,0.18
 Dean Thomas,1967.09.25,Ibolya,0.41
 Cedric Diggory,1964.03.01,Ibolya,0.45
 Sipor,1898.12.25,Ibolya,0.56
+Viktor Krum,1962.11.04,Britney,0.53
+Sirius Black,1944.08.20,Pacsuli,0.33
+Remus Lupin,1943.01.10,Ibolya,0.32

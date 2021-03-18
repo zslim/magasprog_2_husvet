@@ -50,7 +50,7 @@ namespace Husvet
 
         public override string ToString()
         {
-            return string.Format("Név: {0}, Születési dátum: {1}, Kölni: {2}, Elfogyasztott alkohol (v/v%): {3}",
+            return string.Format("Locsolkodó[{0}, sz. {1}, {2} kölnivel, alkoholizáltság mértéke {3}]",
                 Name, BirthDate, KolniViz, AlcoholConsumed);
         }
     }
