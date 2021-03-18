@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace magasprog_2_husvet
+namespace Husvet
 {
     class Program
     {
