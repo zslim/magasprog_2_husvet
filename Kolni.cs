@@ -2,6 +2,6 @@ namespace Husvet
 {
     enum Kolni
     {
-        Pacsuli, Ibolya, Britney
+        Pacsuli, Ibolya, Britney, Chanel, Pitralon
     }
 }
