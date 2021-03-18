@@ -26,6 +26,7 @@ namespace Husvet
             {
                 if(value > DateTime.Today)
                     throw new Exception("Helytelen születési dátum: az idő jövőbeli");
+                birthDate = value;
             }
         }
 
